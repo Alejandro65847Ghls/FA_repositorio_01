@@ -12,6 +12,15 @@ namespace Semana1_C_
         {
             ejer1();
                 Console.ReadKey();
+
+            
+            
+                ejer2();
+                Console.ReadKey();
+
+            ejer3();
+            Console.ReadKey();
+
         }
 
 
@@ -28,5 +37,31 @@ namespace Semana1_C_
 
             Console.WriteLine($"\n{nombre}, bienvenido al FA de {carrera}");
         }
+
+        static void ejer2()
+        {
+            Console.WriteLine("\"Alejandro\"");
+
+        }
+        static void ejer3()
+        {
+            Console.Write("Ingrese num 1:");
+            int x = int.Parse(Console.ReadLine());
+
+            Console.Write("Ingrese num 2:");
+            int y = Convert.ToInt32(Console.ReadLine());
+
+            double divi = x / y;
+            //double divi Devuelve el resultado en decimal
+
+            Console.WriteLine("\nSuma: " + (x + y));
+            Console.WriteLine("Resta: " + (x - y));
+            Console.WriteLine("Multiplicación: " + (x * y));
+            Console.WriteLine("División: " + divi);
+        }
+
+
+
+
     }
 }
