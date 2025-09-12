@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\Fundamento de Algoritmos 8455\\FA-8455\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\FA\\FA_repositorio_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{131BC4A2-7292-4A49-9365-3FD7ADB6CD12}|Semana1-Python\\Semana1-Python.pyproj|C:\\Users\\UPN\\Desktop\\Fundamento de Algoritmos 8455\\FA-8455\\Semana1-Python\\Semana1_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{131BC4A2-7292-4A49-9365-3FD7ADB6CD12}|Semana1-Python\\Semana1-Python.pyproj|C:\\Users\\UPN\\Desktop\\FA\\FA_repositorio_01\\Semana1-Python\\Semana1_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{131BC4A2-7292-4A49-9365-3FD7ADB6CD12}|Semana1-Python\\Semana1-Python.pyproj|solutionrelative:Semana1-Python\\Semana1_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE896B07-3688-4D09-9F26-ADC5BB0E1923}|Semana1-C#\\Semana1-C#.csproj|c:\\users\\upn\\desktop\\fundamento de algoritmos 8455\\fa-8455\\semana1-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE896B07-3688-4D09-9F26-ADC5BB0E1923}|Semana1-C#\\Semana1-C#.csproj|C:\\Users\\UPN\\Desktop\\FA\\FA_repositorio_01\\semana1-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE896B07-3688-4D09-9F26-ADC5BB0E1923}|Semana1-C#\\Semana1-C#.csproj|solutionrelative:semana1-c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Semana1_Python.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Fundamento de Algoritmos 8455\\FA-8455\\Semana1-Python\\Semana1_Python.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA\\FA_repositorio_01\\Semana1-Python\\Semana1_Python.py",
               "RelativeDocumentMoniker": "Semana1-Python\\Semana1_Python.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Fundamento de Algoritmos 8455\\FA-8455\\Semana1-Python\\Semana1_Python.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA\\FA_repositorio_01\\Semana1-Python\\Semana1_Python.py",
               "RelativeToolTip": "Semana1-Python\\Semana1_Python.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-05T13:00:41.116Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Fundamento de Algoritmos 8455\\FA-8455\\Semana1-C#\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA\\FA_repositorio_01\\Semana1-C#\\Program.cs",
               "RelativeDocumentMoniker": "Semana1-C#\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Fundamento de Algoritmos 8455\\FA-8455\\Semana1-C#\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA\\FA_repositorio_01\\Semana1-C#\\Program.cs",
               "RelativeToolTip": "Semana1-C#\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwBwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T12:41:07.805Z",
               "EditorCaption": ""
